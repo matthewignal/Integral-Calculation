@@ -1,3 +1,5 @@
+#Phys 2200
+
 Calculates integral Isubn = integral [0,1] of (x^n e^-x dx)
 
 Does so by using a modified algorithm and a high quality general integrator where absolute and relative error is 10^-9
